@@ -1,0 +1,15 @@
+/Users/kaora/Desktop/первое занятие С#/bin/Debug/net7.0/первое занятие С#
+/Users/kaora/Desktop/первое занятие С#/bin/Debug/net7.0/первое занятие С#.deps.json
+/Users/kaora/Desktop/первое занятие С#/bin/Debug/net7.0/первое занятие С#.runtimeconfig.json
+/Users/kaora/Desktop/первое занятие С#/bin/Debug/net7.0/первое занятие С#.dll
+/Users/kaora/Desktop/первое занятие С#/bin/Debug/net7.0/первое занятие С#.pdb
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.csproj.AssemblyReference.cache
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.AssemblyInfoInputs.cache
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.AssemblyInfo.cs
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.csproj.CoreCompileInputs.cache
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.dll
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/refint/первое занятие С#.dll
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.pdb
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/первое занятие С#.genruntimeconfig.cache
+/Users/kaora/Desktop/первое занятие С#/obj/Debug/net7.0/ref/первое занятие С#.dll
